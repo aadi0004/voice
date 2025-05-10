@@ -1,6 +1,5 @@
 speechrecognition>=3.10.0
 pyaudio>=0.2.14
-transformers>=4.35.0
-gTTS>=2.3.2
-pygame>=2.5.2
 python-dotenv>=1.0.0
+google-generativeai>=0.8.3
+pyttsx3>=2.90
