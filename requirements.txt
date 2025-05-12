@@ -3,3 +3,4 @@ pyaudio>=0.2.14
 python-dotenv>=1.0.0
 google-generativeai>=0.8.3
 pyttsx3>=2.90
+streamlit>=1.38.0
